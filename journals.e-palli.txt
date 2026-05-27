@@ -6714,7 +6714,7 @@
                                 <nav class="navigation" role="navigation" data-action="navigation">
                                     <ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
                                         <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="//vjde.vn/journal" style="font-size:12px;" class=" nav-anchor">
+                                            <a href="//journals.e-palli.com/" style="font-size:12px;" class=" nav-anchor">
                                                 <span>SLOT88</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -12625,42 +12625,42 @@ function myFunction() {
                                     <h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">SLOT88</h4>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Situs Slot Gacor</a>
+                                            <a href="//journals.e-palli.com/">Situs Slot Gacor</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Situs Gacor</a>
+                                            <a href="//journals.e-palli.com/">Situs Gacor</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Link Gacor</a>
+                                            <a href="//journals.e-palli.com/">Link Gacor</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Slot Gacor Terbaru</a>
+                                            <a href="//journals.e-palli.com/">Slot Gacor Terbaru</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Slot Gacor 2026</a>
+                                            <a href="//journals.e-palli.com/">Slot Gacor 2026</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Slot Gacor Mudah Menang</a>
+                                            <a href="//journals.e-palli.com/">Slot Gacor Mudah Menang</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Slot Online</a>
+                                            <a href="//journals.e-palli.com/">Slot Online</a>
                                         </p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                         <p>
-                                            <a href="//vjde.vn/journal">Slot Online Gacor</a>
+                                            <a href="//journals.e-palli.com/">Slot Online Gacor</a>
                                         </p>
                                     </div>
                                 </div>
