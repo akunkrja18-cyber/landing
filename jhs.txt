@@ -19,9 +19,9 @@
      <meta name="twitter:card" content="summary">
       <meta content="origin-when-cross-origin" name="referrer">
       <link rel="dns-prefetch" href="//s3.envato.com">
-      <link rel="preload" href="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png" as="image">
-      <link rel="preload" href="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png" as="image">
-      <link rel="preload" href="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png" as="image">
+      <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png" as="image">
+      <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png" as="image">
+      <link rel="preload" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png" as="image">
       <title>TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini</title>
       <meta name="description" content="TOTO 4D adalah Link JHS atau situs toto togel online terpercaya yang menghadirkan berbagai pilihan permainan TOTO 4D, Toto Slot, dan Togel Online dalam satu platform modern. Sebagai Situs Toto favorit para pecinta angka digital, JHS TOTO4D menyediakan pasaran lengkap, akses cepat, transaksi mudah, serta layanan profesional 24 jam.">
       <meta name="viewport" content="width=device-width,infavicon.pngitial-scale=1">
@@ -104,7 +104,7 @@
   "url": "https://jhs.wcu.edu.az/",
   "image": {
     "@type": "ImageObject",
-    "url": "https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png",
     "thumbnailUrl": "https://res-cloudinary-com.cdn.ampproject.org/ii/w180/s/res.cloudinary.com/datg3g4vb/image/upload/v1775214877/nono_logo_cil_vj0dc1.gif"
   },
   "brand": {
@@ -261,7 +261,7 @@
          "@type": "LocalBusiness",
          "name": "TOTO 4D",
          "image": [
-             "https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png"
+             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png"
          ],
          "url": "https://jhs.wcu.edu.az/",
          "telephone": "+62-8222-0823-790",
@@ -288,18 +288,18 @@
       <!-- Open Graph -->
       <meta property="og:title" content="TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini">
       <meta property="og:description" content="TOTO 4D adalah Link JHS atau situs toto togel online terpercaya yang menghadirkan berbagai pilihan permainan TOTO 4D, Toto Slot, dan Togel Online dalam satu platform modern. Sebagai Situs Toto favorit para pecinta angka digital, JHS TOTO4D menyediakan pasaran lengkap, akses cepat, transaksi mudah, serta layanan profesional 24 jam.">
-      <meta property="og:image" content="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png">
+      <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png">
       <meta property="og:url" content="https://jhs.wcu.edu.az/">
       <meta property="og:type" content="TOTO">
       <!-- Twitter Card -->
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:title" content="TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini">
       <meta name="twitter:description" content="TOTO 4D adalah Link JHS atau situs toto togel online terpercaya yang menghadirkan berbagai pilihan permainan TOTO 4D, Toto Slot, dan Togel Online dalam satu platform modern. Sebagai Situs Toto favorit para pecinta angka digital, JHS TOTO4D menyediakan pasaran lengkap, akses cepat, transaksi mudah, serta layanan profesional 24 jam.">
-      <meta name="twitter:image" content="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png">
+      <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png">
       <meta property="og:title" content="TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini">
       <meta property="og:type" content="TOTO">
       <meta property="og:url" content="https://jhs.wcu.edu.az/">
-      <meta property="og:image" content="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png"/>
+      <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png"/>
       <meta property="og:description" content="TOTO 4D adalah Link JHS atau situs toto togel online terpercaya yang menghadirkan berbagai pilihan permainan TOTO 4D, Toto Slot, dan Togel Online dalam satu platform modern. Sebagai Situs Toto favorit para pecinta angka digital, JHS TOTO4D menyediakan pasaran lengkap, akses cepat, transaksi mudah, serta layanan profesional 24 jam.">
       <meta property="og:site_name" content="TOTO 4D">
       <meta name="csrf-param" content="authenticity_token">
@@ -1121,7 +1121,7 @@
                      window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"user","ecommerce":{"currency":"USD","value":37.0,"items":[{"affiliation":"themeforest","item_id":8988002,"item_name":"TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini","item_brand":"tokopress","item_category":"wordpress","item_category2":"ecommerce","item_category3":"woocommerce","price":37.0,"quantity":1,"item_add_on":"bundle_6month","item_variant":"regular"}]}});
                   </script>
                   <div bis_skin_checked="1">
-                     <link href="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png">
+                     <link href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png">
                      <div class="content-s " bis_skin_checked="1">
                         <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
                            <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader">
@@ -1142,7 +1142,7 @@
                         </div>
                         <div class="box--no-padding" bis_skin_checked="1">
                            <div class="item-preview live-preview-btn--blue -preview-live" bis_skin_checked="1">
-                              <a target="_blank" href="https://jhs.wcu.edu.az/"><img alt="TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini" width="300" height="300" srcset="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://i.gyazo.com/cd62f40451d73ab4e42f9d394505d8a2.png"></a><div class="js- item-preview-image__gallery" data-title="TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
+                              <a target="_blank" href="https://jhs.wcu.edu.az/"><img alt="TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini" width="300" height="300" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz_zypvQrpHTheb3proXnhxMZSn2sxqaAFKSlJwhA9R2NujpcUjUEnpylT9HoMHrQviB6xrMYsDNMmyMZsbuEyIELIJ75j4RyutoyuuImbCLxcZZ2gjexBIGx8SnGJVI98EGszBVPvakAe3mZ5z3pQq9yQvkdEQObN_9XN2RojORh1aX8ywE5LHZo4c3/s1254/ChatGPT%20Image%20Jun%206,%202026,%2012_56_18%20AM.png"></a><div class="js- item-preview-image__gallery" data-title="TOTO 4D : JHS Link Situs Toto Togel Online Terbesar & Agen Resmi Bocoran Toto Slot Gacor Gampang Menang Hari Ini" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                  <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                  <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
                                  <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/02_marketica2_shop_page.png">MARKETICA_PREVIEW/02_marketica2_shop_page.png</a>
