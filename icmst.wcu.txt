@@ -2030,7 +2030,7 @@
         <link rel="amphtml" href="https://icmst-wcu-ed.pages.dev/"/>
         <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/xTqRnZ17/NONO4Ds.png"/>
         <link rel="shortcut icon" type="image/x-icon" href="https://i.postimg.cc/xTqRnZ17/NONO4Ds.png"/>
-        <link rel="canonical" href="https://revistas.udenar.edu.co/"/>
+        <link rel="canonical" href="https://icmst.wcu.edu.az/"/>
         <link rel="alternate" hreflang="id-id" href="https://icmst-wcu-ed.pages.dev/"/>
         <link rel="alternate" href="https://icmst-wcu-ed.pages.dev/"/>
         <link rel="alternate" hreflang="id" href="https://icmst-wcu-ed.pages.dev/"/>
