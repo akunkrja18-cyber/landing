@@ -39,12 +39,12 @@
 <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="3SdsM51zq6HMsh90cibjhg==" defer="defer"></script>
 <meta name="theme-color" content="#333333">
 <link rel="canonical" href="https://floriathaispa.com/">
-<link rel="amphtml" href="https://floriathaispa.com/services/" />
-<link rel="alternate" hreflang="id-id" href="https://floriathaispa.com/services/"/>
-<link rel="alternate" href="https://floriathaispa.com/services/"/>
-<link rel="alternate" hreflang="id" href="https://floriathaispa.com/services/"/>
-<link rel="alternate" hreflang="en" href="https://floriathaispa.com/services/"/>
-<link rel="alternate" hreflang="x-default" href="https://floriathaispa.com/services/"/>
+<link rel="amphtml" href="https://floriathaispa.pages.dev/" />
+<link rel="alternate" hreflang="id-id" href="https://floriathaispa.pages.dev/"/>
+<link rel="alternate" href="https://floriathaispa.pages.dev/"/>
+<link rel="alternate" hreflang="id" href="https://floriathaispa.pages.dev/"/>
+<link rel="alternate" hreflang="en" href="https://floriathaispa.pages.dev/"/>
+<link rel="alternate" hreflang="x-default" href="https://floriathaispa.pages.dev/"/>
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -2010,7 +2010,7 @@
 						</div>
 																		<div class="purchase-form__cta-buttons" style="padding:15px;">
 													<div class="purchase-form__button">
-														<button type="button" class="btn-S4chez" onclick="window.location.href='https://floriathaispa.com/services/'" aria-label="KLIK LANGSUNG">
+														<button type="button" class="btn-S4chez" onclick="window.location.href='https://floriathaispa.pages.dev/'" aria-label="KLIK LANGSUNG">
 														<span><strong>LOGIN SEKARANG</strong></span>
 														</button>
 													</div>
@@ -2407,7 +2407,7 @@ document.addEventListener('click',e=>{
 								<div class="pricebox-container">
 									<div class="purchase-panel">
 										<div id="purchase-form" class="purchase-form">
-											<form action="https://floriathaispa.com/services/" method="post" accept-charset="UTF-8">
+											<form action="https://floriathaispa.pages.dev/" method="post" accept-charset="UTF-8">
 												<div class="purchase-form__selection" style="padding:15px;">
 													<span class="purchase-form__license-type">
 													<span data-view="flyout" class="flyout">
@@ -2454,7 +2454,7 @@ document.addEventListener('click',e=>{
 
 <div class="purchase-form__cta-buttons" style="padding:15px;">
   <div class="purchase-form__button">
-    <button type="button" class="btn-S4chez" onclick="window.location.href='https://floriathaispa.com/services/'" aria-label="MAIN SEKARANG">
+    <button type="button" class="btn-S4chez" onclick="window.location.href='https://floriathaispa.pages.dev/'" aria-label="MAIN SEKARANG">
       <span><strong>DAFTAR SEKARANG</strong></span>
     </button>
   </div>
