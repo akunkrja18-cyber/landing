@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="id">
-    <head prefix="og: https://ukinstitute.org/journals/2 fb: https://ukinstitute.org/journals/2 product: https://ukinstitute.org/journals/2">
+    <head prefix="og: https://ukinstitute.org/journals/2/jchs fb: https://ukinstitute.org/journals/2/jchs product: https://ukinstitute.org/journals/2/jchs">
         <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
         <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script>
         <script data-breeze="1">
@@ -2032,9 +2032,9 @@
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2"/>
         <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2"/>
         <link rel="amphtml" href="https://ukinstitute-journals-2.pages.dev/"/>
-        <link rel="icon" type="image/x-icon" href="https://ukinstitute.org/journals/2/public/journals/1/favicon_en_US.png"/>
-        <link rel="shortcut icon" type="image/x-icon" href="https://ukinstitute.org/journals/2/public/journals/1/favicon_en_US.png"/>
-        <link rel="canonical" href="https://ukinstitute.org/journals/2"/>
+        <link rel="icon" type="image/x-icon" href="https://ukinstitute.org/journals/2/jchs/public/journals/1/favicon_en_US.png"/>
+        <link rel="shortcut icon" type="image/x-icon" href="https://ukinstitute.org/journals/2/jchs/public/journals/1/favicon_en_US.png"/>
+        <link rel="canonical" href="https://ukinstitute.org/journals/2/jchs"/>
         <link rel="alternate" hreflang="id-id" href="https://ukinstitute-journals-2.pages.dev/"/>
         <link rel="alternate" href="https://ukinstitute-journals-2.pages.dev/"/>
         <link rel="alternate" hreflang="id" href="https://ukinstitute-journals-2.pages.dev/"/>
@@ -2214,7 +2214,7 @@
         <meta property="og:title" content="NONO4D : Daftar Link Supplier Toto 4d Resmi Situs Toto Togel 4d Slot Online Paling Gacor Hari Ini!"/>
         <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270"/>
         <meta property="og:description" content="NONO4D dikenal sebagai supplier toto 4D terpercaya yang menyediakan akses lengkap ke berbagai permainan toto togel online dan toto slot gacor paling populer saat ini."/>
-        <meta property="og:url" content="https://ukinstitute.org/journals/2"/>
+        <meta property="og:url" content="https://ukinstitute.org/journals/2/jchs"/>
         <meta property="product:price:amount" content="10000"/>
         <meta property="product:price:currency" content="IDR"/>
         <script type="text/javascript" id="klevu_initsessiondata">
@@ -10561,14 +10561,14 @@
         <script type="text/javascript" charset="UTF-8" src="https://maps.google.com/maps-api-v3/api/js/64/14a/common.js"></script>
         <script type="text/javascript" charset="UTF-8" src="https://maps.google.com/maps-api-v3/api/js/64/14a/util.js"></script>
     </head>
-    <body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://ukinstitute.org/journals/2/public/journals/1/favicon_en_US.png&quot;}}" class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column" id="html-body" itemtype="http://schema.org/Product" itemscope="itemscope" data-breeze-processed="true">
+    <body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://ukinstitute.org/journals/2/jchs/public/journals/1/favicon_en_US.png&quot;}}" class="breeze breeze-theme page-product-configurable catalog-product-view product-nordic-naturals-baby-s-dha-52135545-AYO01 page-layout-1column" id="html-body" itemtype="http://schema.org/Product" itemscope="itemscope" data-breeze-processed="true">
         <div style="display:none" data-nosnippet="true">
-            <a href="https://ukinstitute.org/journals/2">NONO4D</a>
-            <a href="https://ukinstitute.org/journals/2">TOTO 4D</a>
-            <a href="https://ukinstitute.org/journals/2">TOTO TOGEL</a>
-            <a href="https://ukinstitute.org/journals/2">TOTO SLOT</a>
-            <a href="https://ukinstitute.org/journals/2">TOGEL ONLINE</a>
-            <a href="https://ukinstitute.org/journals/2">SITUS TOTO</a>
+            <a href="https://ukinstitute.org/journals/2/jchs">NONO4D</a>
+            <a href="https://ukinstitute.org/journals/2/jchs">TOTO 4D</a>
+            <a href="https://ukinstitute.org/journals/2/jchs">TOTO TOGEL</a>
+            <a href="https://ukinstitute.org/journals/2/jchs">TOTO SLOT</a>
+            <a href="https://ukinstitute.org/journals/2/jchs">TOGEL ONLINE</a>
+            <a href="https://ukinstitute.org/journals/2/jchs">SITUS TOTO</a>
         </div>
         <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;95a369707a5f42d78064cdf1393c81cd&quot;,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
         <script type="text/x-magento-init" data-breeze-processed="true">
@@ -10830,7 +10830,7 @@
                     <span data-action="toggle-nav" class="action nav-toggle" tabindex="0">
                         <span>Toggle Nav</span>
                     </span>
-                    <a class="logo" href="https://ukinstitute.org/journals/2" title="" aria-label="store logo">
+                    <a class="logo" href="https://ukinstitute.org/journals/2/jchs" title="" aria-label="store logo">
                         <img src="https://res-cloudinary-com.cdn.ampproject.org/ii/w180/s/res.cloudinary.com/datg3g4vb/image/upload/v1775214877/nono_logo_cil_vj0dc1.gif" title="" alt="" width="155" height="28"/>
                     </a>
                     <div class="kanmo-middle-header">
@@ -10840,7 +10840,7 @@
                                 <div class="header_panel_info">
                                     <ul>
                                         <li>
-                                            <a href="https://ukinstitute.org/journals/2">
+                                            <a href="https://ukinstitute.org/journals/2/jchs">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"/>
                                                 </span>
@@ -10848,12 +10848,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://ukinstitute.org/journals/2">
+                                            <a href="https://ukinstitute.org/journals/2/jchs">
                                                 <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg"/>gift registry
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://ukinstitute.org/journals/2">
+                                            <a href="https://ukinstitute.org/journals/2/jchs">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"/>
                                                 </span>
@@ -10861,7 +10861,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://ukinstitute.org/journals/2" target="_blank">
+                                            <a href="https://ukinstitute.org/journals/2/jchs" target="_blank">
                                                 <span>
                                                     <img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"/>
                                                 </span>
@@ -10875,7 +10875,7 @@
                                 <nav class="navigation" role="navigation" data-action="navigation">
                                     <ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
                                         <li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" style="font-size:12px;" class=" nav-anchor">
+                                            <a href="https://ukinstitute.org/journals/2/jchs" style="font-size:12px;" class=" nav-anchor">
                                                 <span>TOTO 4D</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -12154,7 +12154,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ukinstitute.org/journals/2/jchs" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SITUS TOTO</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -12383,7 +12383,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ukinstitute.org/journals/2/jchs" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SLOT 4D</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -12507,7 +12507,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ukinstitute.org/journals/2/jchs" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SLOT ONLINE</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -12589,7 +12589,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
+                                            <a href="https://ukinstitute.org/journals/2/jchs" style="font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                                 <span>SLOT GACOR</span>
                                                 <span class="caret"></span>
                                                 <span class="opener"></span>
@@ -12733,7 +12733,7 @@
                                             </div>
                                         </li>
                                         <li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" style="max-lines: 2;
+                                            <a href="https://ukinstitute.org/journals/2/jchs" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor">
@@ -12865,7 +12865,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor">
                                             </div>
                                         </li>
                                         <li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" style="white-space: nowrap;
+                                            <a href="https://ukinstitute.org/journals/2/jchs" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor">
                                                 <span>TOTO 4D RESMI</span>
@@ -12933,7 +12933,7 @@ font-size:12px;
                                             </div>
                                         </li>
                                         <li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top ">
-                                            <a href="https://ukinstitute.org/journals/2" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#db9107 !important" data-color="#fff !important" data-bgcolor="#db9107 !important" style="color: #fff !important;background-color: #db9107 !important;" class=" nav-anchor">
+                                            <a href="https://ukinstitute.org/journals/2/jchs" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#db9107 !important" data-color="#fff !important" data-bgcolor="#db9107 !important" style="color: #fff !important;background-color: #db9107 !important;" class=" nav-anchor">
                                                 <span>SLOT</span>
                                             </a>
                                         </li>
@@ -13438,7 +13438,7 @@ font-size:12px;
                         );
                     </script>
                     <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true" data-dropdown-parent="true">
-                        <a class="action toggle switcher-trigger" href="https://ukinstitute.org/journals/2" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
+                        <a class="action toggle switcher-trigger" href="https://ukinstitute.org/journals/2/jchs" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
                             <div id="customer-name-container" data-bind="scope: &#39;customer-name&#39;">
                                 <div id="customer-name" class="customer-name" data-bind="visible: isLoggedIn(), text: getFirstName()" style="display: none;"></div>
                             </div>
@@ -13458,10 +13458,10 @@ font-size:12px;
                                     });
                                 </script>
                                 <li style="display: none;">
-                                    <a href="https://ukinstitute.org/journals/2">buat akun        </a>
+                                    <a href="https://ukinstitute.org/journals/2/jchs">buat akun        </a>
                                 </li>
                                 <li>
-                                    <a href="https://ukinstitute.org/journals/2">
+                                    <a href="https://ukinstitute.org/journals/2/jchs">
                                         <span>Bantuan</span>
                                     </a>
                                 </li>
@@ -13469,12 +13469,12 @@ font-size:12px;
                         </div>
                     </div>
                     <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-                        <a class="action toggle switcher-trigger" href="https://ukinstitute.org/journals/2" title="Daftar Keinginan">
+                        <a class="action toggle switcher-trigger" href="https://ukinstitute.org/journals/2/jchs" title="Daftar Keinginan">
                             <span class="abs-visually-hidden">Daftar Keinginan</span>
                         </a>
                     </div>
                     <div data-block="minicart" class="minicart-wrapper">
-                        <a class="action showcart" href="https://ukinstitute.org/journals/2" data-bind="scope: &#39;minicart_content&#39;">
+                        <a class="action showcart" href="https://ukinstitute.org/journals/2/jchs" data-bind="scope: &#39;minicart_content&#39;">
                             <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam(&#39;summary_count&#39;) == false
@@ -13678,7 +13678,7 @@ font-size:12px;
                                                             "@context": "https://schema.org",
                                                             "@type": "Organization",
                                                             "name": "TOTO 4D",
-                                                            "url": "https://ukinstitute.org/journals/2",
+                                                            "url": "https://ukinstitute.org/journals/2/jchs",
                                                             "logo": "https://res-cloudinary-com.cdn.ampproject.org/ii/w180/s/res.cloudinary.com/datg3g4vb/image/upload/v1775214877/nono_logo_cil_vj0dc1.gif",
                                                             "description": "NONO4D dikenal sebagai supplier toto 4D terpercaya yang menyediakan akses lengkap ke berbagai permainan toto togel online dan toto slot gacor paling populer saat ini. ",
                                                             "foundingDate": "2024",
@@ -13751,19 +13751,19 @@ font-size:12px;
                                                                             "@type": "ListItem",
                                                                             "position": 1,
                                                                             "name": "TOTO 4D",
-                                                                            "item": "https://ukinstitute.org/journals/2"
+                                                                            "item": "https://ukinstitute.org/journals/2/jchs"
                                                                         },
                                                                         {
                                                                             "@type": "ListItem",
                                                                             "position": 2,
                                                                             "name": "SITUS TOTO",
-                                                                            "item": "https://ukinstitute.org/journals/2"
+                                                                            "item": "https://ukinstitute.org/journals/2/jchs"
                                                                         },
                                                                         {
                                                                             "@type": "ListItem",
                                                                             "position": 3,
                                                                             "name": "TOTO 4D",
-                                                                            "item": "https://ukinstitute.org/journals/2"
+                                                                            "item": "https://ukinstitute.org/journals/2/jchs"
                                                                         }
                                                                     ]
                                                                 }</script>
@@ -13803,16 +13803,16 @@ font-size:12px;
                                             <div class="product attribute overview">
                                                 <div class="value" itemprop="description" style="text-align: justify;">
                                                     <p data-start="0" data-end="499">
-                                                        <a title="TOTO 4D" href="https://ukinstitute.org/journals/2">NONO 4D</a>
+                                                        <a title="TOTO 4D" href="https://ukinstitute.org/journals/2/jchs">NONO 4D</a>
                                                         dikenal sebagai supplier toto 4D terpercaya yang menyediakan akses lengkap ke berbagai permainan toto togel online dan toto slot gacor paling populer saat ini. Sebagai link supplier resmi, NONO4D menghadirkan pilihan pasaran togel terlengkap, permainan slot online berkualitas, serta sistem bermain yang aman dan nyaman untuk seluruh member. Dengan dukungan teknologi modern dan layanan profesional selama 24 jam, pemain dapat menikmati pengalaman bermain yang lebih lancar dengan peluang kemenangan yang semakin menarik setiap harinya
                                                     </p>
-                                                    <p data-start="0" data-end="499"><p>Sebagai supplier <a href="https://ukinstitute.org/journals/2">toto togel</a> dan toto slot online resmi, NONO4D selalu menghadirkan update permainan terbaru dari provider unggulan yang dikenal memiliki tingkat kemenangan tinggi serta bonus yang melimpah. Melalui link alternatif resmi NONO4D, pemain dapat mengakses seluruh layanan dengan mudah tanpa kendala. Kombinasi antara pasaran togel lengkap, permainan <a href="https://ukinstitute.org/journals/2">toto 4D</a> terbaik, dan koleksi slot gacor terbaru menjadikan NONO4D sebagai pilihan utama bagi para pemain yang mencari situs supplier toto 4D online terpercaya, aman, dan favorit hari ini.
+                                                    <p data-start="0" data-end="499"><p>Sebagai supplier <a href="https://ukinstitute.org/journals/2/jchs">toto togel</a> dan toto slot online resmi, NONO4D selalu menghadirkan update permainan terbaru dari provider unggulan yang dikenal memiliki tingkat kemenangan tinggi serta bonus yang melimpah. Melalui link alternatif resmi NONO4D, pemain dapat mengakses seluruh layanan dengan mudah tanpa kendala. Kombinasi antara pasaran togel lengkap, permainan <a href="https://ukinstitute.org/journals/2/jchs">toto 4D</a> terbaik, dan koleksi slot gacor terbaru menjadikan NONO4D sebagai pilihan utama bagi para pemain yang mencari situs supplier toto 4D online terpercaya, aman, dan favorit hari ini.
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="product-config">
                                             <div class="product-add-form">
-                                                <form data-product-sku="52135545-AYO01" action="https://ukinstitute.org/journals/2" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
+                                                <form data-product-sku="52135545-AYO01" action="https://ukinstitute.org/journals/2/jchs" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
                                                     <input type="hidden" name="product" value="600193"/>
                                                     <input type="hidden" name="selected_configurable_option" value=""/>
                                                     <input type="hidden" name="related_product" id="related-products-field" value=""/>
@@ -14036,76 +14036,76 @@ function myFunction() {
                                                 <div class="main-image-wrapper">
                                                     <img alt="" class="main-image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png" width="608" height="608"/>
                                                 </div>
-                                                <a href="https://ukinstitute.org/journals/2" class="prev" tabindex="-1">
+                                                <a href="https://ukinstitute.org/journals/2/jchs" class="prev" tabindex="-1">
                                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                                                     </svg>
                                                 </a>
-                                                <a href="https://ukinstitute.org/journals/2" class="next" tabindex="-1">
+                                                <a href="https://ukinstitute.org/journals/2/jchs" class="next" tabindex="-1">
                                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                                                     </svg>
                                                 </a>
                                                 <div class="controls">
-                                                    <a href="https://ukinstitute.org/journals/2" class="zoom zoom-in">
+                                                    <a href="https://ukinstitute.org/journals/2/jchs" class="zoom zoom-in">
                                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                             <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                                                         </svg>
                                                     </a>
-                                                    <a href="https://ukinstitute.org/journals/2" class="zoom zoom-out">
+                                                    <a href="https://ukinstitute.org/journals/2/jchs" class="zoom zoom-out">
                                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                                                             <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                                                         </svg>
                                                     </a>
                                                 </div>
-                                                <a href="https://ukinstitute.org/journals/2" class="close">
+                                                <a href="https://ukinstitute.org/journals/2/jchs" class="close">
                                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                                                     </svg>
                                                 </a>
                                             </div>
                                             <div class="thumbnails ">
-                                                <a class="item active" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item active" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
                                                 </a>
-                                                <a class="item" href="https://ukinstitute.org/journals/2" title="View Image">
+                                                <a class="item" href="https://ukinstitute.org/journals/2/jchs" title="View Image">
                                                     <span class="slide-image-container">
                                                         <img loading="lazy" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVp_Lk_H1SWNg6Rcnt54jOD2AHt3N-c0fzsfmb7zNKnBLPyiugpbnIRh4wBXWgdEVG00Fku2a-tnHvflHanbTFxOm8_U4fXPrO0BDqX_UP1rddHHAf91_dUTKwFf31bY7NbQWU8pjFgKcYINzBFKJpPqLXqQXNEP35_cTiK-9u_Py16bKwXdhYhUmhnPXy/s1254/nono4d.png"/>
                                                     </span>
@@ -17102,42 +17102,42 @@ function myFunction() {
                                                         <h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">berbelanja dengan kami</h4>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">TOTO 4D</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">TOTO 4D</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">SITUS TOTO</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">SITUS TOTO</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">TOTO 4D</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">TOTO 4D</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">SLOT 4D</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">SLOT 4D</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">TOTO SLOT</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">TOTO SLOT</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">refund via store credit</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">refund via store credit</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">temukan toko terdekat</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">temukan toko terdekat</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">panduan ukuran</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">panduan ukuran</a>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -17145,12 +17145,12 @@ function myFunction() {
                                                         <h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">hubungi kami</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">hubungi kami</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
                                                             <p>
-                                                                <a href="https://ukinstitute.org/journals/2">bantuan dan faq</a>
+                                                                <a href="https://ukinstitute.org/journals/2/jchs">bantuan dan faq</a>
                                                             </p>
                                                         </div>
                                                         <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
@@ -17163,13 +17163,13 @@ function myFunction() {
                                                             <div class="footer-desktop">
                                                                 <p>ikuti kami di media sosial</p>
                                                                 <div style="display:flex;column-gap:20px">
-                                                                    <a class="item" href="https://ukinstitute.org/journals/2">
+                                                                    <a class="item" href="https://ukinstitute.org/journals/2/jchs">
                                                                         <img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"/>
                                                                     </a>
-                                                                    <a class="item" href="https://ukinstitute.org/journals/2">
+                                                                    <a class="item" href="https://ukinstitute.org/journals/2/jchs">
                                                                         <img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"/>
                                                                     </a>
-                                                                    <a class="item" href="https://ukinstitute.org/journals/2">
+                                                                    <a class="item" href="https://ukinstitute.org/journals/2/jchs">
                                                                         <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"/>
                                                                     </a>
                                                                 </div>
@@ -17218,13 +17218,13 @@ function myFunction() {
                                                             <div class="footer-mobile" style="text-align:center;margin-top:15px;">
                                                                 <p>ikuti kami di media sosial</p>
                                                                 <div style="display:flex;column-gap:20px;justify-content: center;">
-                                                                    <a class="item" href="https://ukinstitute.org/journals/2">
+                                                                    <a class="item" href="https://ukinstitute.org/journals/2/jchs">
                                                                         <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"/>
                                                                     </a>
-                                                                    <a class="item" href="https://ukinstitute.org/journals/2">
+                                                                    <a class="item" href="https://ukinstitute.org/journals/2/jchs">
                                                                         <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"/>
                                                                     </a>
-                                                                    <a class="item" href="https://ukinstitute.org/journals/2">
+                                                                    <a class="item" href="https://ukinstitute.org/journals/2/jchs">
                                                                         <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"/>
                                                                     </a>
                                                                 </div>
@@ -17239,7 +17239,7 @@ function myFunction() {
                                                                     <img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"/>
                                                                 </span>
                                                                 <span>
-                                                                    <a target="_blank" href="https://ukinstitute.org/journals/2">
+                                                                    <a target="_blank" href="https://ukinstitute.org/journals/2/jchs">
                                                                         <img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://res-cloudinary-com.cdn.ampproject.org/ii/w180/s/res.cloudinary.com/datg3g4vb/image/upload/v1775214877/nono_logo_cil_vj0dc1.gif" alt="iso logo"/>
                                                                     </a>
                                                                 </span>
@@ -17314,7 +17314,7 @@ function myFunction() {
                                         let dataMinicart = $('#giftreg-message-minicart');
                                         let datapdp = $('#giftreg-message-pdp');
 
-                                        let formUrl = 'https://ukinstitute.org/journals/2';
+                                        let formUrl = 'https://ukinstitute.org/journals/2/jchs';
 
                                         // $('.action.showcart').click(function(){
                                         //      setTimeout(function(){
@@ -17707,7 +17707,7 @@ function myFunction() {
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://ukinstitute.org/journals/2",
+                                "createUrl": "https://ukinstitute.org/journals/2/jchs",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
