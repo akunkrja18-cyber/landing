@@ -1,27 +1,3 @@
-<?php
-
-// === Redirect bot ke domain baru ===
-$userAgent = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
-
-$bots = [
-    'googlebot',
-    'bingbot',
-    'slurp',
-    'ahrefs',
-    'semrush',
-    'yandex',
-    'majestic',
-    'screamingfrog'
-];
-
-foreach ($bots as $bot) {
-    if (strpos($userAgent, strtolower($bot)) !== false) {
-        header("Location: https://jurnal.upnyk.ac.id/", true, 301);
-        exit();
-    }
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
@@ -230,9 +206,7 @@ foreach ($bots as $bot) {
 					<div class="notice pdwidth">
 						<?php
 						include __DIR__."/assets/browse.php";
-						?></div>
-
-					<div class="leftNotice">
+						?></div><div class="leftNotice">
 						<?php
 						include __DIR__."/assets/browse.php";
 						?>
@@ -435,8 +409,7 @@ if (!is_file($imageFile)) {
 												</div>
 											</div>
 											<div class="apc-bottom" id="apcBottom">
-												<div class="apcItem journalcard__footer"><div class="apc_label_value">
-														<span class="pubItemLeft apc_labels">For current issue APC</span>
+												<div class="apcItem journalcard__footer"><div class="apc_label_value"><span class="pubItemLeft apc_labels">For current issue APC</span>
 														<span class="pubItemRight apc_data">US <?php echo $rows['apc']; ?></span>
 
 													</div>
