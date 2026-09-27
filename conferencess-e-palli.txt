@@ -5148,7 +5148,7 @@
          <div id="giftreg-message-minicart" style="display: none;">
          	</div> -->
       <div id="giftreg-message-pdp" style="display: none;">
-         <a href="https://pujonkidul.org/" class="notlogingift">
+         <a href="https://conferences.e-palli.com/" class="notlogingift">
          <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
          CLAIM BONUS
          </a>
